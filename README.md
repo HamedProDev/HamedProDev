@@ -1,6 +1,6 @@
-# 👋 Hi, I'm HamedPRO
+# 👋 Hi, I'm Hamed Hussein
 
-💻 **Software Developer | Machine Learning & Deep Learning Enthusiast**
+💻 **Software Developer | Machine Learning & Deep Learning Enthusiast | Fullstack Developer**
 
 I am a passionate **software developer** focused on building modern, scalable web applications and exploring **Machine Learning (ML)** and **Deep Learning (DL)** technologies.
 
@@ -70,6 +70,7 @@ A professional healthcare and nursing service website.
 ## 🚲 Bicycle Website
 A product showcase platform for bicycles with modern UI and product catalog structure.
 
+https://cykelsmedjan.com
 ---
 
 ## 🛒 E-Commerce Website
@@ -96,6 +97,9 @@ Key Areas of Study:
 - Deep Learning Architectures
 - AI-powered Applications
 - Scalable Backend Systems
+- Backend developement
+- Frontend development
+- Blockchain Technology 
 
 ---
 
