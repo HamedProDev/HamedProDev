@@ -762,87 +762,6 @@ Exploring the intersection of
 
 </div>
 
-
-# 📊 GITHUB COMMAND CENTER
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=HamedProDev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=050014&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF"
-height="180"
-alt="GitHub Statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedProDev&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=050014&title_color=C084FC&text_color=E9D5FF"
-height="180"
-alt="Top Languages"
-/>
-
-</div>
-
----
-
-# 🌌 CONTRIBUTION UNIVERSE
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=HamedProDev&bg_color=050014&color=C084FC&line=A855F7&point=22D3EE&area=true&hide_border=true"
-width="100%"
-alt="GitHub Contribution Graph"
-/>
-
-</div>
-
----
-
-# 📈 DEVELOPMENT SIGNALS
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 📦 CODE
-
-<img src="https://github-readme-stats.vercel.app/api?username=HamedProDev&show_icons=true&hide=issues&hide_title=true&hide_border=true&count_private=true&theme=transparent&text_color=C4B5FD&icon_color=A855F7" width="100%" />
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧠 LANGUAGES
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedProDev&layout=donut&hide_border=true&theme=transparent&title_color=C084FC&text_color=C4B5FD" width="100%" />
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔥 STREAK
-
-<img src="https://streak-stats.demolab.com/?user=HamedProDev&theme=tokyonight&hide_border=true&background=050014&ring=A855F7&fire=C026D3&currStreakLabel=C084FC" width="100%" />
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🕐 RECENT ACTIVITY
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=HamedProDev&custom_title=HAMED%20HUSSEIN%20%E2%80%94%20RECENT%20ENGINEERING%20ACTIVITY&bg_color=08001A&color=E9D5FF&line=8B5CF6&point=22D3EE&area=true&hide_border=true"
-width="100%"
-alt="Recent GitHub Activity"
-/>
-
-</div>
-
 ---
 # 📚 CURRENTLY LEARNING
 
@@ -1046,38 +965,11 @@ alt="Recent GitHub Activity"
 
 # 🇷🇼 KIGALI → 🌍 WORLD
 
-### `LOCAL PROBLEMS × MODERN ENGINEERING × AI`
-
-</div>
-
-Technology gives builders everywhere the ability to learn globally, collaborate globally and create products for global audiences.
-
-I'm building from **Rwanda** with that mindset.
-
 ---
 <div align="center">
 
 <div align="center">
-
-```text
-DEEP LEARNING
-████████████████████████████████████░░░░
-
-AI ENGINEERING
-██████████████████████████████████░░░░░░
-
-SYSTEM DESIGN
-████████████████████████████████░░░░░░░░
-
-PRODUCT DEVELOPMENT
-██████████████████████████████████░░░░░░
-
-OPEN SOURCE
-██████████████████████████████░░░░░░░░░░
-
-MATHEMATICS
-████████████████████████████░░░░░░░░░░░░
-```
+DEEP LEARNING  ████████████████████████████████████░░░░ |  SYSTEM DESIGN  ████████████████████████████████░░░░░░░░  | PRODUCT DEVELOPMENT  ███████████████████████░░░░░░  | OPEN SOURCE   ██████████████████████████████░░░░░░░░░░  | MATHEMATICS   ████████████████████████████░░░░░░░░░░░░
 
 </div>
 
