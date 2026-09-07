@@ -113,14 +113,12 @@ Blockchain (side quest)  ███████░░░░░░░░░░░�
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HamedProDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedProDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HamedProDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedProDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamedProDev&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=HamedProDev&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamedProDev&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=0e75b6&line=7F77DD&point=F0997B" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=HamedProDev&theme=darkhub&no-frame=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=HamedProDev&theme=darkhub&no-frame=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
