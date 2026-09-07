@@ -307,18 +307,21 @@ the real world.
 
 
 
----# ⚡ TECHNOLOGY
+# ⚡ TECHNOLOGY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,bash,react,nextjs,vue,tailwind,vite,nodejs,express,laravel,mongodb,postgres,mysql,supabase,pytorch,tensorflow,docker,vercel,git,githubactions,linux&theme=dark" />
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,bash,html,css,react,nextjs,vue,tailwind,vite,nodejs,express,nestjs,laravel,mongodb,postgres,mysql,supabase,redis,pytorch,tensorflow,docker,kubernetes,aws,vercel,git,github,githubactions,linux,figma,postman,vscode&theme=dark" />
+
+</div>
 <br>
 
 `JavaScript` · `TypeScript` · `Python` · `PHP` · `SQL` · `Bash` ·
 `React` · `Next.js` · `Vue` · `Node.js` · `Laravel` ·
 `MongoDB` · `PostgreSQL` · `MySQL` · `PyTorch` · `TensorFlow` ·
-`Docker` · `Git` · `Linux`
+`Docker` · `Git` · `Linux`  · `AI`  · `ML`  · `DL`  · `Pandas`     
 
 </div>
 
