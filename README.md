@@ -405,319 +405,48 @@ Rwanda for the world
 
 
 
----
+---# ⚡ TECHNOLOGY
 
-# 🛠️ TECHNOLOGY UNIVERSE
+<div align="center">
 
-<table>
-<tr>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,bash,react,nextjs,vue,tailwind,vite,nodejs,express,laravel,mongodb,postgres,mysql,supabase,pytorch,tensorflow,docker,vercel,git,githubactions,linux&theme=dark" />
 
-<td width="50%" valign="top">
+<br>
 
-## 💻 LANGUAGES
+`JavaScript` · `TypeScript` · `Python` · `PHP` · `SQL` · `Bash` ·
+`React` · `Next.js` · `Vue` · `Node.js` · `Laravel` ·
+`MongoDB` · `PostgreSQL` · `MySQL` · `PyTorch` · `TensorFlow` ·
+`Docker` · `Git` · `Linux`
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,bash&theme=dark" />
-
-<br><br>
-
-`JavaScript` · `TypeScript` · `Python` · `PHP` · `SQL` · `Bash`
+</div>
 
 ---
-
-## 🎨 FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite&theme=dark" />
-
-<br><br>
-
-`React` · `Next.js` · `Vue` · `Tailwind CSS` · `Vite`
-
----
-
-## ⚙️ BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark" />
-
-<br><br>
-
-`Node.js` · `Express` · `Laravel` · `REST APIs`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🗄️ DATABASE & DATA
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&theme=dark" />
-
-<br><br>
-
-`MongoDB` · `PostgreSQL` · `MySQL` · `Supabase`
-
----
-
-## 🤖 AI / MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-<br><br>
-
-`PyTorch` · `TensorFlow` · `Scikit-Learn` · `LLMs` · `RAG` · `Agents`
-
----
-
-## ☁️ INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=docker,vercel,git,githubactions,linux&theme=dark" />
-
-<br><br>
-
-`Docker` · `Vercel` · `Render` · `Git` · `GitHub Actions` · `Linux`
-
-</td>
-
-</tr>
-</table>
-
----
-<!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                      -->
-<!-- ========================================================= -->
 
 # 🚀 FEATURED PROJECTS
 
 <div align="center">
 
-<table>
-<tr>
+| Project                | Stack                                     |    Status   |                                               |
+| :--------------------- | :---------------------------------------- | :---------: | :-------------------------------------------: |
+| 🎬 **HahuMoviePlus**   | React · Node.js · Vercel                  |   🟢 Live   | [Explore ↗](https://hahumovieplus.vercel.app) |
+| 🏥 **JayNursing**      | PHP · MySQL · Tailwind                    |   🟢 Live   |   [Explore ↗](https://jaynursing.vercel.app)  |
+| 🚲 **Cykelsmedjan**    | React · MongoDB · Tailwind                |   🟢 Live   |      [Visit ↗](https://cykelsmedjan.com)      |
+| ⚡ **NovaSoft RW**      | Next.js · Vercel                          |  🟢 Active  |   [Explore ↗](https://novasoftrw.vercel.app)  |
+| 🧪 **Engineering Lab** | Next.js · MongoDB · AI/ML                 |  🟢 Active  |  [Enter ↗](https://hamedprodev.onrender.com)  |
+| 🤖 **AI × Full-Stack** | Python · PyTorch · TensorFlow · LangChain | 🟣 Building |                       —                       |
 
-<!-- ===================== PROJECT 01 ======================= -->
+</div>
 
-<td width="50%" valign="top">
+---
 
-<h2>🎬 HahuMoviePlus</h2>
+<div align="center">
 
-<img src="https://img.shields.io/badge/●%20LIVE-22C55E?style=flat-square&labelColor=07130B" />
+**BUILD** · **LEARN** · **EXPERIMENT** · **SHIP**
 
-<p>
-A fast, responsive streaming discovery platform focused on
-<strong>content discovery, playback and frictionless UX</strong>.
-</p>
+`FULL-STACK` `AI/ML` `CLOUD` `SYSTEMS`
 
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
+</div>
 
-<table>
-<tr>
-<td align="center"><b>DISCOVERY</b><br><sub>Content search</sub></td>
-<td align="center"><b>PLAYBACK</b><br><sub>Viewing experience</sub></td>
-<td align="center"><b>API</b><br><sub>Data integration</sub></td>
-<td align="center"><b>UX</b><br><sub>Responsive UI</sub></td>
-</tr>
-</table>
-
-<a href="https://hahumovieplus.vercel.app">
-<img src="https://img.shields.io/badge/%E2%86%92%20EXPLORE%20PROJECT-7C3AED?style=for-the-badge&labelColor=10002B" />
-</a>
-
-</td>
-
-<!-- ===================== PROJECT 02 ======================= -->
-
-<td width="50%" valign="top">
-
-<h2>🏥 JayNursing</h2>
-
-<img src="https://img.shields.io/badge/●%20LIVE-22C55E?style=flat-square&labelColor=07130B" />
-
-<p>
-A practical healthcare platform designed around
-<strong>appointments, patient workflows and accessible UX</strong>.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-
-<table>
-<tr>
-<td align="center"><b>BOOKING</b><br><sub>Appointments</sub></td>
-<td align="center"><b>RECORDS</b><br><sub>Patient data</sub></td>
-<td align="center"><b>DATABASE</b><br><sub>MySQL</sub></td>
-<td align="center"><b>UX</b><br><sub>Responsive</sub></td>
-</tr>
-</table>
-
-<a href="https://jaynursing.vercel.app">
-<img src="https://img.shields.io/badge/%E2%86%92%20EXPLORE%20PROJECT-A855F7?style=for-the-badge&labelColor=10002B" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<!-- ===================== PROJECT 03 ======================= -->
-
-<td width="50%" valign="top">
-
-<h2>🚲 Cykelsmedjan</h2>
-
-<img src="https://img.shields.io/badge/●%20LIVE-22C55E?style=flat-square&labelColor=07130B" />
-
-<p>
-A complete bicycle commerce experience connecting
-<strong>catalog discovery, product exploration and purchasing</strong>.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-
-<table>
-<tr>
-<td align="center"><b>01</b><br><sub>Discover</sub></td>
-<td align="center">→</td>
-<td align="center"><b>02</b><br><sub>Catalog</sub></td>
-<td align="center">→</td>
-<td align="center"><b>03</b><br><sub>Product</sub></td>
-<td align="center">→</td>
-<td align="center"><b>04</b><br><sub>Cart</sub></td>
-<td align="center">→</td>
-<td align="center"><b>05</b><br><sub>Checkout</sub></td>
-</tr>
-</table>
-
-<a href="https://cykelsmedjan.com">
-<img src="https://img.shields.io/badge/%E2%86%92%20VISIT%20STORE-C026D3?style=for-the-badge&labelColor=10002B" />
-</a>
-
-</td>
-
-<!-- ===================== PROJECT 04 ======================= -->
-
-<td width="50%" valign="top">
-
-<h2>⚡ NovaSoft RW</h2>
-
-<img src="https://img.shields.io/badge/●%20ACTIVE-22C55E?style=flat-square&labelColor=07130B" />
-
-<p>
-A digital product company focused on building
-<strong>software, platforms and technology solutions</strong>.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
-<table>
-<tr>
-<td align="center"><b>PRODUCTS</b><br><sub>Digital platforms</sub></td>
-<td align="center"><b>SOFTWARE</b><br><sub>Engineering</sub></td>
-<td align="center"><b>SOLUTIONS</b><br><sub>Client needs</sub></td>
-<td align="center"><b>IMPACT</b><br><sub>Real-world</sub></td>
-</tr>
-</table>
-
-<a href="https://novasoftrw.vercel.app">
-<img src="https://img.shields.io/badge/%E2%86%92%20EXPLORE%20NOVASOFT-7C3AED?style=for-the-badge&labelColor=10002B" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<!-- ===================== PROJECT 05 ======================= -->
-
-<td width="50%" valign="top">
-
-<h2>🧪 Portfolio & Engineering Lab</h2>
-
-<img src="https://img.shields.io/badge/●%20ACTIVE-22C55E?style=flat-square&labelColor=07130B" />
-
-<p>
-My personal engineering laboratory for
-<strong>projects, experiments, research, learning and AI/ML exploration</strong>.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FML-8B5CF6?style=flat-square" />
-</p>
-
-<table>
-<tr>
-<td align="center">🧠<br><b>LEARN</b></td>
-<td align="center">🧪<br><b>EXPERIMENT</b></td>
-<td align="center">🛠️<br><b>BUILD</b></td>
-<td align="center">🚀<br><b>SHIP</b></td>
-</tr>
-</table>
-
-<a href="https://hamedprodev.onrender.com">
-<img src="https://img.shields.io/badge/%E2%86%92%20ENTER%20THE%20LAB-8B5CF6?style=for-the-badge&labelColor=10002B" />
-</a>
-
-</td>
-
-<!-- ===================== PROJECT 06 ======================= -->
-
-<td width="50%" valign="top">
-
-<h2>🤖 AI × Full-Stack Systems</h2>
-
-<img src="https://img.shields.io/badge/●%20BUILDING-8B5CF6?style=flat-square&labelColor=10002B" />
-
-<p>
-Exploring the intersection of
-<strong>Artificial Intelligence, Machine Learning and production software</strong>.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-</p>
-
-<table>
-<tr>
-<td align="center"><b>ML</b><br><sub>Models</sub></td>
-<td align="center"><b>DL</b><br><sub>Neural nets</sub></td>
-<td align="center"><b>LLMs</b><br><sub>Generative AI</sub></td>
-<td align="center"><b>RAG</b><br><sub>Knowledge</sub></td>
-</tr>
-</table>
-
-<p>
-<code>AI</code> → <code>API</code> → <code>PRODUCT</code> → <code>PRODUCTION</code>
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
 
 <!-- ===================== PROJECT PHILOSOPHY ================= -->
 
@@ -969,7 +698,11 @@ Exploring the intersection of
 <div align="center">
 
 <div align="center">
-DEEP LEARNING  ████████████████████████████████████░░░░ |  SYSTEM DESIGN  ████████████████████████████████░░░░░░░░  | PRODUCT DEVELOPMENT  ███████████████████████░░░░░░  | OPEN SOURCE   ██████████████████████████████░░░░░░░░░░  | MATHEMATICS   ████████████████████████████░░░░░░░░░░░░
+DEEP LEARNING       ████████████████████████████████████░░░░ 
+SYSTEM DESIGN       ████████████████████████████████░░░░░░░░ 
+PRODUCT DEVELOPMENT ███████████████████████░░░░░░░░░░░░░░░░░
+OPEN SOURCE         ██████████████████████████████░░░░░░░░░░
+MATHEMATICS         ████████████████████████████████░░░░░░░░
 
 </div>
 
