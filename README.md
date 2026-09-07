@@ -47,17 +47,6 @@
 <img src="https://img.shields.io/badge/%F0%9F%92%BB%20GITHUB-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=090014" alt="GitHub" />
 </a>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=HamedProDev&label=VISITORS&color=8B5CF6&style=for-the-badge" alt="Profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/HamedProDev?label=FOLLOWERS&color=A855F7&style=for-the-badge" alt="Followers" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/HamedProDev?label=STARS&color=7C3AED&style=for-the-badge" alt="Stars" />
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=for-the-badge" alt="Open to work" />
-
-<br>
 
 <sub>
 <strong>HAMED HUSSEIN</strong> · FULL-STACK ENGINEER · AI/ML DEVELOPER · PRODUCT BUILDER
@@ -71,67 +60,6 @@
 <!--                      METRICS BAR                           -->
 <!-- ========================================================= -->
 
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-### 👨‍💻
-
-**FULL-STACK**
-
-Engineering
-
-</td>
-
-<td align="center" width="20%">
-
-### 🤖
-
-**AI / ML**
-
-Development
-
-</td>
-
-<td align="center" width="20%">
-
-### 🚀
-
-**PRODUCTS**
-
-Built & shipped
-
-</td>
-
-<td align="center" width="20%">
-
-### 🇷🇼
-
-**KIGALI**
-
-Rwanda
-
-</td>
-
-<td align="center" width="20%">
-
-### ⚡
-
-**BUILD**
-
-Mode: ACTIVE
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
 # 👋 ABOUT ME
 
 <div align="center">
@@ -304,32 +232,6 @@ the real world.
 
 </div>
 
-<td width="25%" align="center">
-
-### 🏗️
-
-**ENGINEER**
-
-Frontend → Backend
-→ Data → AI
-
-</td>
-
-<td width="25%" align="center">
-
-### 🌍
-
-**GLOBAL MINDSET**
-
-Building from
-Rwanda for the world
-
-</td>
-
-</tr>
-</table>
-
----
 
 # 🏆 ACHIEVEMENTS & PROFILE SIGNALS
 
@@ -429,11 +331,11 @@ Rwanda for the world
 | Project                | Stack                                     |    Status   |                                               |
 | :--------------------- | :---------------------------------------- | :---------: | :-------------------------------------------: |
 | 🎬 **HahuMoviePlus**   | React · Node.js · Vercel                  |   🟢 Live   | [Explore ↗](https://hahumovieplus.vercel.app) |
-| 🏥 **JayNursing**      | PHP · MySQL · Tailwind                    |   🟢 Live   |   [Explore ↗](https://jaynursing.vercel.app)  |
-| 🚲 **Cykelsmedjan**    | React · MongoDB · Tailwind                |   🟢 Live   |      [Visit ↗](https://cykelsmedjan.com)      |
-| ⚡ **NovaSoft RW**      | Next.js · Vercel                          |  🟢 Active  |   [Explore ↗](https://novasoftrw.vercel.app)  |
-| 🧪 **Engineering Lab** | Next.js · MongoDB · AI/ML                 |  🟢 Active  |  [Enter ↗](https://hamedprodev.onrender.com)  |
-| 🤖 **AI × Full-Stack** | Python · PyTorch · TensorFlow · LangChain | 🟣 Building |                       —                       |
+| 🏥 **JayNursing**      | PHP · MySQL · Tailwind                    |   🟢 Live   | [Explore ↗](https://jaynursing.vercel.app)    |
+| 🚲 **Cykelsmedjan**    | React · MongoDB · Tailwind                |   🟢 Live   | [Visit ↗](https://cykelsmedjan.com)           |
+| ⚡ **NovaSoft RW**      | Next.js · Vercel                          |   🟢 Active | [Explore ↗](https://novasoftrw.vercel.app)    |
+| 🧪 **Engineering Lab** | Next.js · MongoDB · AI/ML                 |   🟢 Active | [Enter ↗](https://hamedprodev.onrender.com)   |
+
 
 </div>
 
@@ -695,18 +597,6 @@ Rwanda for the world
 # 🇷🇼 KIGALI → 🌍 WORLD
 
 ---
-<div align="center">
-
-<div align="center">
-DEEP LEARNING       ████████████████████████████████████░░░░ 
-SYSTEM DESIGN       ████████████████████████████████░░░░░░░░ 
-PRODUCT DEVELOPMENT ███████████████████████░░░░░░░░░░░░░░░░░
-OPEN SOURCE         ██████████████████████████████░░░░░░░░░░
-MATHEMATICS         ████████████████████████████████░░░░░░░░
-
-</div>
-
----
 
 # 💭 ENGINEERING PHILOSOPHY
 
@@ -892,7 +782,7 @@ Built with curiosity, code, caffeine & a ridiculous number of iterations.
 
 </sub>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,20:7C3AED,45:A855F7,70:4C00A8,100:05001A&height=140&section=footer" width="100%" />
 
